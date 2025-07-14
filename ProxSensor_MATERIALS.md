@@ -1,5 +1,6 @@
 You should have been given these materials. These links can be used as
 reference for what you need.
+  [NOTE] Materials for laser-cut wood box not included.
 
 - [1 Arduino Nano](https://www.amazon.com/ELEGOO-Pre-soldered-ATmega-Compatible-Arduino/dp/B0D5LYFRQP?crid=W1GZ0OYSJY5R&dib=eyJ2IjoiMSJ9.hHw19IfVTc6lc5jxd302RnB0lK826JRQat8mDqpsfNintuHNCVNHO01sF_06r2bS-MZHrT-OKS1pgLJcOo49jMrc9S7Vk1ul9X8TbC3V1otxnJQBMhcOn0WNWv0dHG4tRiS10TbQgtHFulNMVJASmRCx74trHRQ_Jdn-uOt1DUjFNWrHzTNlHOiztAp08kCdKNA29d0eOiFWuTDbsIImBKzEb4L08Gqej9QgSx5gweY.Fmh8Hmds68jtq9UZlaeMh9CzLjYAy735zOFMMVjA4J4&dib_tag=se&keywords=Arduino+nano&qid=1741048516&sprefix=arduino+nano%2Caps%2C192&sr=8-1)
 
@@ -22,4 +23,6 @@ device)
 
 - [Jumper Wires (Male to Male and Female to Male wires)](https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78?crid=1BP32LNFDUKCN&dib=eyJ2IjoiMSJ9.tjHxIQLJsk16_0YVtUGN6Tqnr8euWNsWVjpSaq5RQkbzkWrZ9zwE7F8lZo2IcDLpdQRll4Bkon1oTzbds_Od982O22Niu0TKLICq057pweR7M3NVbZ-X_-OezYfaY7nBWGJ-GQa_naxmqgVMSf2d_xnXFvmlUTbNnITrDRK_fgA8mexZvpn6RxxKadM-YvvEP3ZcYLi3adwkGFnmVv2qN_9mPDOV7IWfEJTshoQdrmo.PrgkOznL66riRnnofBldUjS5hZ-1QF3yfmJkCv5dMhQ&dib_tag=se&keywords=jumper+cable+breadboard&qid=1741048457&sprefix=jumper+cable+breaboar%2Caps%2C248&sr=8-3)
 
+- [9V Battery Connector](https://www.amazon.com/Battery-Connector-Plastic-Experiment-Equipment/dp/B08SL9X2YC/ref=sr_1_1_sspa?crid=169Y0STEMUUU5&dib=eyJ2IjoiMSJ9.lrvdqNYrwtnnoUa2K5IvkDcaFevI593YJxaR-4g4tubqZzfYzswXn1CZH_00MdSZ_Ptu-K4pbwMHh_RQRAcoM-nZS3Dl2vdKl-iE9SnA9W9NWL3FVymRdcE-xgCZd1Ufk_U5eid8i_f0clYsV47Pm0ieQ_Bm2w9VzeaZrcUDKJl3pYFLAyFgMU1BTgaK-Je0GjNSdLZvUNJPZQLz_Df9LcabCmmhuAbAqBg2BfyOo6Y.WpODyAfrat56QyoO4JDt0JQ_5A4_I_VhwBJNydTUOeQ&dib_tag=se&keywords=9%2Bvolt%2Bbattery%2Bconnector&qid=1752475136&sprefix=9%2Bvolt%2Bbattery%2Bcannecot%2Caps%2C159&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 
+- [9V Battery](https://www.amazon.com/Energizer-Alkaline-Volt-Battery-2-Count/dp/B004R16728/ref=sr_1_8?crid=T0EJIOF5M8DZ&dib=eyJ2IjoiMSJ9.8xIC2eXJTnIdYA30fCJOn1bbvj6KHvNx7RWtFZC-lW1_GidprGoWDUP5IUOK0SK_6ybt3o2FGBqcIXGMuHhsheXoxKNwwIFOt5uZz8SszonK39vs10JXclZHDzDHYlIJos7lCvixNk9SOubrQOsXQIDIXDiddLQnEXh3Vbnbo1UVqRPhAmQTNFHLesF-82NTGS04lOtKGyg2-tVpNdCIGZ7eILjUV9DU--4RIc9z-I19xTefrBD9K-KIu_KgmUtEGQs8uEEMml-p1xX0op7yfkY0nWLgoG8C6uLS276dRA0.DJsFevbvlo_V52aYrGAF0VPKFgfN_XQ7lonUiX4I8vs&dib_tag=se&keywords=9%2Bvolt%2Bbattery&qid=1752476335&sprefix=9%2Bvolt%2Bbattery%2Caps%2C216&sr=8-8&th=1)
